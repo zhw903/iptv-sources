@@ -37,5 +37,3 @@ jobs:
           publish_dir: ./m3u
           enable_jekyll: true
           cname: 20080201.xyz
-
-   
