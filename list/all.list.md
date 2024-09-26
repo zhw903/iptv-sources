@@ -1378,7 +1378,7 @@
 | 1372 | [BD]spectrum sportsnet lakers | stream1.freetv.fun | <https://stream1.freetv.fun/0a52dcb13df14a097e2102a72181e0f53c634b9a2db14afc69f77732bd7a9b28.ctv> |
 | 1373 | [SD]spiegel tv konflikte | stream1.freetv.fun | <https://stream1.freetv.fun/08f06dccf5cabb1d49b6871e98ba9ee01a30b6a0870f1ba78d4e35c5c2229e7e.m3u8> |
 | 1374 | [HD]spirit tv | stream1.freetv.fun | <https://stream1.freetv.fun/4f97605ea379775ec63a63243a1d73eb7289ddae22beb41a7a97631e661c7c3a.m3u8> |
-| 1375 | [BD]sportv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/0207e985f9d4b1b09265e9825eeb3e2a51514b2c66978aa646edef5758890893.ctv> |
+| 1375 | [BD]sportv 1 | stream1.freetv.fun | <https://stream1.freetv.fun/9690853c888f42094dae9401bc4f91260616ce32876d9b638b361b7d53b6abe8.m3u8> |
 | 1376 | [BD]rtv | stream1.freetv.fun | <https://stream1.freetv.fun/264bed2f4b57fed2a0038ee4e241f2fbb12b59071a97fda4b605c7997923ceb3.m3u8> |
 | 1377 | [HD]yes sport 5+ hd | stream1.freetv.fun | <https://stream1.freetv.fun/d54db4548783164bfb4ca97823d9e556f2b888525bb9b4d7e56d4f3dad004ecf.m3u8> |
 | 1378 | [HD]mv-go-sport | stream1.freetv.fun | <https://stream1.freetv.fun/0f34f085517d63437ab97a0a01a68e07149c7fac1b9b73cf1c203d14362dba38.m3u8> |
@@ -2401,4 +2401,4 @@
 | 2395 | [BD]국악방송 | stream1.freetv.fun | <https://stream1.freetv.fun/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8> |
 | 2396 | [BD]소상공인방송 | stream1.freetv.fun | <https://stream1.freetv.fun/8b059be92e1d851bfcedeb99bbd37b00ef4c21bce792c6f147a19e4857cea026.m3u8> |
 
-Updated at **Thu Sep 26 2024 04:19:52 GMT+0000 (Coordinated Universal Time)**
+Updated at **Thu Sep 26 2024 06:22:39 GMT+0000 (Coordinated Universal Time)**
